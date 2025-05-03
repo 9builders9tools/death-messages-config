@@ -1194,21 +1194,29 @@ Mobs:
     Solo:
       Contact:
       - '%player% was pushed into a cactus by %killer%'
+      - '%player% was forced to eat cactus by the Mossad'
       Projectile-Arrow:
       - '%player% was shot by a %killer%  using %weapon%'
+      - '%player% was shot by the Mossad with a %weapon%'
       Weapon:
       - '%player% was slain by a %killer%  using %weapon%'
+      - '%player% was killed by the Mossad with a %weapon%'
       Melee:
       - '%player% was slain by a %killer%'
+      - 'A Mossad agent killed %player%'
     Gang:
       Contact:
       - '%player% was pushed into a cactus by some %killer%'
+      - '%player% was forced to eat cactus by Mossad agents'
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
+      - '%player% was shot by Mossad agents with a %weapon%'
       Weapon:
       - '%player% was ganged up on by some %killer%s! One wacked them with %weapon%'
+      - '%player% was jumped by Mossad agents using %weapon%'
       Melee:
       - '%player% was slain by a bunch of %killer%s'
+      - '%player% was killed by Mossad agents'
   ravager:
     Solo:
       Projectile-Arrow:
@@ -1216,10 +1224,10 @@ Mobs:
       Weapon:
       - '%player% was slain by a %killer%  using %weapon%'
       Melee:
-      - '%player% was slain by a %killer%'
+      - '%player% got got crushed by a %killer%s cheeks'
     Gang:
       Projectile-Arrow:
-      - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
+      - '%player% got shot with a %weapon% by some %killer%s!'
       Weapon:
       - '%player% was ganged up on by some %killer%s! One wacked them with %weapon%'
       Melee:
@@ -1452,7 +1460,7 @@ Mobs:
       - '%player% thought he was george floyd and was killed by %killer%'
       Fall:
       - '%player% tried to escape %killer% by jumping off a bridge'
-      - 'THIS IS SPARTA!!!!'
+      - '%player% has fallen... billions must die'
       Lava:
       - '%player% tried to swim in lava while trying to escape %killer%'
       - '%killer% decided to push a Jew named %player% into the lava for a laugh'
@@ -1464,16 +1472,16 @@ Mobs:
       - '%player% stood too close to %killer%s fireworks'
       End-Crystal:
       - '%killer% killed %player% by blowing up an end-crystal!'
+      - '%player% got EZ''d by %killer%'
       - '%killer% killed %player% ezzzzz'
       - '%killer% crystaled %player% stay mad'
       - '%killer% pegged %player% :3'
-      - 'im bout to blow!'
       - '%player% was crystaled by a terrorist named %killer%'
       - '%player% was crystaled by %killer% ezzzzzz'
       Void:
       - '%killer% tripped %player% knocking them into the void'
       Wither:
-      - '%player% withered away from %killer%s magic'
+      - '%player% got the %killer% brain virus and died'
       Thorns:
       - '%player% tried playing with %killer%s armor with thorns'
       # Hook related deaths
