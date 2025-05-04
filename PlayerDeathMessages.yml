@@ -172,6 +172,7 @@ Natural-Cause:
   - '%player% forgot about air'
   - '%player% thought he was a fish'
   - '%player% died of natural causes while being peacefully questioned by law enforcement'
+  - '%player% mirrored Icarus'
   Explosion:
   - '%player% blew up'
   TNT:
