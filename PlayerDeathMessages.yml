@@ -140,7 +140,7 @@ Natural-Cause:
   - '%player% shot themselves with trident'
   Suffocation:
   - '%player% was squished to death'
-  - '%player% couldnt breathe'
+  - '%player% couldn''t breathe'
   - PERMISSION[deathmessages.premium]%player% was mashed up pretty good.
   Fall:
   - '%player% thought he could fly. What an autist...'
@@ -459,8 +459,7 @@ Mobs:
       - '%player% was slain by a %killer% using %weapon%'
       Explosion:
       - '%player% was blown up by a %killer%'
-      - '%player% was blown up in a terrorist attack!'
-      - '%player% was kidnapped by terrorists!!!!'
+      - '%player% was blown up in a terrorist attack by %killer%'
       Melee:
       - '%player% was slain by a %killer%'
     Gang:
@@ -470,6 +469,7 @@ Mobs:
       - '%player% was ganged up on by some %killer%s! One wacked them with %weapon%'
       Explosion:
       - '%player% was blown up by some %killer%'
+      - '%player% was kidnapped by terrorist %killer%'
       Melee:
       - '%player% was slain by a bunch of %killer%s'
   skeleton:
@@ -598,7 +598,7 @@ Mobs:
       - '%player% was ganged up on by some %killer%s! One wacked them with %weapon%'
       Melee:
       - '%player% was slain by a bunch of %killer%s'
-      - '%player% was killed by a bunch of tall black men!'
+      - '%player% was gangbanged by a bunch of tall oily black men!'
   cavespider:
     Solo:
       Projectile-Arrow:
@@ -745,7 +745,7 @@ Mobs:
       - '%player% was slain by a %killer%  using %weapon%'
       Melee:
       - '%player% was slain by a %killer%'
-      - 'retard named %player% was killed  by a %killer%'
+      - '%player% was just killed by an %killer%, point and laugh!'
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -1430,7 +1430,7 @@ Mobs:
     Solo:
       Bed:
       - '%player% stood too close to %killer%s bed in the %world_environment%'
-      - '%player% was killed by a terrorist named %player%'
+      - '%player% was bedbombed by a terrorist named %player%'
       Respawn-Anchor:
       - '%player% stood too close to %killer%s respawn anchor in the %world_environment%'
       Contact:
@@ -1440,7 +1440,7 @@ Mobs:
       Projectile-Unknown:
       - '%player% was shot by %killer%'
       Projectile-Arrow:
-      - '%player% was shot by %killer%  using %weapon%'
+      - '%player% was shot by %killer% using %weapon%'
       - '%player% was shot in a school shooting'
       Projectile-Fireball:
       - '%player% was fireballed by %killer%'
@@ -1449,15 +1449,14 @@ Mobs:
       Projectile-Trident:
       - '%player% was impaled by %killer%'
       Weapon:
-      - '%player% was slain by %killer%  using %weapon%'
+      - '%player% was slain by %killer% using %weapon%'
       - '%player% was stabbed to death by %killer% using %weapon%'
       Melee:
       - '%player% was slain by %killer%'
       - '%player% was killed in a street fight with %killer%'
       Suffocation:
       - '%player% suffocated in a wall while fighting %killer_display%'
-      - '%player% couldnt breathe and was killed by %killer%'
-      - '%player% thought he was george floyd and was killed by %killer%'
+      - '%player% was kneeled on by %killer%'
       Fall:
       - '%player% tried to escape %killer% by jumping off a bridge'
       - '%player% has fallen... billions must die'
@@ -1472,12 +1471,7 @@ Mobs:
       - '%player% stood too close to %killer%s fireworks'
       End-Crystal:
       - '%killer% killed %player% by blowing up an end-crystal!'
-      - '%player% got EZ''d by %killer%'
-      - '%killer% killed %player% ezzzzz'
-      - '%killer% crystaled %player% stay mad'
-      - '%killer% pegged %player% :3'
-      - '%player% was crystaled by a terrorist named %killer%'
-      - '%player% was crystaled by %killer% ezzzzzz'
+      - '%player% got ez''d by %killer%'
       Void:
       - '%killer% tripped %player% knocking them into the void'
       Wither:
@@ -1491,7 +1485,7 @@ Mobs:
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
-      - '%player% was executed'
+      - '%player% was executed by the %killer% cartel'
       Weapon:
       - '%player% was ganged up on by some %killer%s! One wacked them with %weapon%'
       Melee:
