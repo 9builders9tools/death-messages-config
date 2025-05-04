@@ -182,6 +182,7 @@ Natural-Cause:
   End-Crystal:
   - '%player% blew up'
   - '%player% became the 73rd virgin'
+  - 'They''ll be scraping %player% off the pavement'
   Void:
   - '%player% fell into the void'
   - '%player% is fucking gone'
@@ -983,7 +984,7 @@ Mobs:
       Weapon:
       - '%player% was ganged up on by some %killer%s! One wacked them with %weapon%'
       Melee:
-      - '%player% mauled the fuck out of by a bear %killer%s'
+      - '%player% was mauled the fuck out of by a group of %killer%s'
   llama:
     Solo:
       Projectile-LlamaSpit:
@@ -1284,7 +1285,7 @@ Mobs:
       Weapon:
       - '%player% was stung by a %killer%  using %weapon%'
       Melee:
-      - "%player%'s bitchass was killed by a bee sting"
+      - "%player%''s bitch ass was killed by a %killer% sting"
     Gang:
       Projectile-Arrow:
       - '%player% was ganged up on by some %killer%! One shot them with %weapon%'
@@ -1431,7 +1432,7 @@ Mobs:
       Bed:
       - '%player% stood too close to %killer%s bed in the %world_environment%'
       - '%player% was bedbombed by a terrorist named %player%'
-      - "%player% didn't respect allah..."
+      - "%player% didn''t respect allah..."
       Respawn-Anchor:
       - '%player% stood too close to %killer%s respawn anchor in the %world_environment%'
       Contact:
@@ -1443,7 +1444,7 @@ Mobs:
       Projectile-Arrow:
       - '%player% was shot by %killer% using %weapon%'
       - '%player% was shot in a school shooting'
-      - "%player% didn't see the arrow headed straight towards them"
+      - "%player% didn''t see the arrow headed straight towards them"
       Projectile-Fireball:
       - '%player% was fireballed by %killer%'
       - '%player% was blown the fuck out'
@@ -1454,7 +1455,7 @@ Mobs:
       Weapon:
       - '%player% was slain by %killer% using %weapon%'
       - '%player% was stabbed to death by %killer% using %weapon%'
-      - "%player% didn't pay their dues to %killer%"
+      - "%player% didn''t pay their dues to %killer%"
       Melee:
       - '%player% was slain by %killer%'
       - '%player% was killed in a street fight with %killer%'
@@ -1471,19 +1472,19 @@ Mobs:
       - '%killer% blew up %player%'
       TNT:
       - '%killer% blew up %player% with tnt'
-      - "%killer% jihad'ed all over %player%"
+      - "%killer% jihaded all over %player%"
       Firework:
       - '%player% stood too close to %killer%s fireworks'
       End-Crystal:
-      - '%killer% wiped %player% off of the face of the fucking earth'
-      - '%killer% killed %player% by blowing up an end-crystal!'
+      - '%player% was wiped off of the face of the fucking earth by %killer%'
+      - '%player% was killed by %killer% blowing up an end-crystal!'
       - '%player% got ez''d by %killer%'
       Void:
       - '%killer% tripped %player% knocking them into the void'
       Wither:
       - '%player% got the %killer% brain virus and died'
       Thorns:
-      - '%player% died trying...' 
+      - '%player% tried too hard' 
       - '%player% tried playing with %killer%s armor with thorns'
       # Hook related deaths
       CombatLogX-Kill:
