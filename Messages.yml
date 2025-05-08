@@ -1,6 +1,6 @@
 # DeathMessages by Dreeam__ (Original by MrShawn/Joshb_/CosmoConsole[DeathMessagesPrime Author])
 #
-Prefix: '&4'
+Prefix: '&c'
 Console:
   # Send death messages to console
   Enabled: true
