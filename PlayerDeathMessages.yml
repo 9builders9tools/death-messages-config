@@ -1286,7 +1286,7 @@ Mobs:
       Weapon:
       - '&6%player%&c was stung by a &6%killer%&c  using %weapon%'
       Melee:
-      - "&6%player%&c''s bitch ass was killed by a &6%killer%&c sting"
+      - '&6%player%&c''s bitch ass was killed by a &6%killer%&c sting'
     Gang:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
@@ -1433,7 +1433,7 @@ Mobs:
       Bed:
       - '&6%player%&c stood too close to &6%killer%&cs bed in the %world_environment%'
       - '&6%player%&c was bedbombed by a terrorist named %player%'
-      - "&6%player%&c didn''t respect allah..."
+      - '&6%player%&c didn''t respect allah...'
       Respawn-Anchor:
       - '&6%player%&c stood too close to &6%killer%&cs respawn anchor in the %world_environment%'
       Contact:
@@ -1445,7 +1445,7 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was shot by &6%killer%&c using %weapon%'
       - '&6%player%&c was shot in a school shooting'
-      - "&6%player%&c didn''t see the arrow headed straight towards them"
+      - '&6%player%&c didn''t see the arrow headed straight towards them'
       Projectile-Fireball:
       - '&6%player%&c was fireballed by &6%killer%&c'
       - '&6%player%&c was blown the fuck out'
@@ -1456,7 +1456,7 @@ Mobs:
       Weapon:
       - '&6%player%&c was slain by &6%killer%&c using %weapon%'
       - '&6%player%&c was stabbed to death by &6%killer%&c using %weapon%'
-      - "&6%player%&c didn''t pay their dues to &6%killer%&c"
+      - '&6%player%&c didn''t pay their dues to &6%killer%&c'
       Melee:
       - '&6%player%&c was slain by &6%killer%&c'
       - '&6%player%&c was killed in a street fight with &6%killer%&c'
@@ -1473,7 +1473,7 @@ Mobs:
       - '&6%killer%&c blew up &6%player%&4'
       TNT:
       - '&6%killer%&c blew up &6%player%&4 with tnt'
-      - "&6%killer%&c jihaded all over &6%player%&4"
+      - '&6%killer%&c jihaded all over &6%player%&4'
       Firework:
       - '&6%player%&c stood too close to &6%killer%&cs fireworks'
       End-Crystal:
