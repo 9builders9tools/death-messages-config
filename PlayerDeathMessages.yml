@@ -189,15 +189,22 @@ Natural-Cause:
   - '&6%player%&c is fucking gone'
   - '&6%player%&c tripped, tried to save themselves, failed and was obliterated'
   - '&6%player%&c stared into the abyss, and the abyss stared back'
+  - 'Fall out, &6%player%&c! Ready? GO!'
   Lightning:
   - '&6%player%&c was struck by lighting'
+  - '&6%player%&c felt the thundersmack.'
   Suicide:
   - '&6%player%&c couldn''t take it anymore'
   - '&6%player%&c joined the 42%'
+  - '&6%player%&c fucking killed themselves nyaahhhh see chu later :3'
+  - '&6%player%&c is still trying to escape spawn'
+  - '&6<%player%>&c Hey guys! I guess that''s it.'
+  - '&6%player%&c got a big sharp knife, it''s her own x-ray'
   Starvation:
   - '&6%player%&c forgot to eat'
   - '&6%player%&c couldn''t afford food'
   - '&6%player%&c ran out of goyslop'
+  - '&6%player%&c forgot the world''s difficulty setting'
   Poison:
   - '&6%player%&c was playing with poison'
   Magic:
@@ -1384,6 +1391,7 @@ Mobs:
       - '&6%player%&c was slain by &6%killer%&c'
       Sonic-Boom:
       - '&6%player%&c was obliterated by a sonically-charged shriek'
+      - '&6%player%&c is probably going to need hearing aids'
     Gang:
       Melee:
       - '&6%player%&c was slain by a bunch of &6%killer%s&c'
@@ -1401,6 +1409,7 @@ Mobs:
     Gang:
       Projectile-Arrow:
       - '&6%player%&c was bogged by a bunch of &6%killer%s&c'
+      - '&6%player%&c got run-down in a trial chamber by &6%killer%s&c. Hope you set your respawn.'
       Weapon:
       - '&6%player%&c was bogged by a bunch of &6%killer%s&c using %weapon%'
       Melee:
@@ -1434,14 +1443,15 @@ Mobs:
       - '&6%player%&c stood too close to &6%killer%s&c bed in the %world_environment%'
       - '&6%player%&c was bedbombed by a terrorist named %player%'
       - '&6%player%&c didn''t respect allah...'
+      - 'You may as well sleep in your home bed tonight, &6%player%&c. :3'
       Respawn-Anchor:
       - '&6%player%&c stood too close to &6%killer%s&c respawn anchor in the %world_environment%'
       Contact:
-      - '&6%player%&c was so terrified of &6%killer%&c he thought a cactus looked safe'
-      - '&6%player%&c tried tricking &6%killer%&c into walking into a cactus. Guess who the
-        autist was...'
+      - '&6%player%&c tumbled into some fucking cactus while trying to give &6%killer%&c a little smooch'
+      - '&6%player%&c tried tricking &6%killer%&c into walking into a cactus. Guess who the autist was...'
       Projectile-Unknown:
       - '&6%player%&c was shot by &6%killer%&c'
+      - '&6%killer%&c 360''d &6%player%&c with??? something????'
       Projectile-Arrow:
       - '&6%player%&c was shot by &6%killer%&c using %weapon%'
       - '&6%player%&c was shot in a school shooting'
@@ -1453,40 +1463,51 @@ Mobs:
       - '&6%player%&c was hit in the head with a snowball thrown by &6%killer%&c'
       Projectile-Trident:
       - '&6%player%&c was impaled by &6%killer%&c'
+      - '&6%player%&c was forked and consumed by the likes of &6%killer%&c'
       Weapon:
       - '&6%player%&c was slain by &6%killer%&c using %weapon%'
       - '&6%player%&c was stabbed to death by &6%killer%&c using %weapon%'
       - '&6%player%&c didn''t pay their dues to &6%killer%&c'
+      - '&6%player%&c didn''t get &6%killer%&c''s point. teehee.'
       Melee:
       - '&6%player%&c was slain by &6%killer%&c'
       - '&6%player%&c was killed in a street fight with &6%killer%&c'
+      - '&6<%player%>&c Awww, fuck. I can''t believe you''ve done this, &6%killer%&c'
       Suffocation:
       - '&6%player%&c suffocated in a wall while fighting %killer_display%'
       - '&6%player%&c was kneeled on by &6%killer%&c'
       Fall:
       - '&6%player%&c tried to escape &6%killer%&c by jumping off a bridge'
       - '&6%player%&c has fallen... billions must die'
+      - '&6%player%&c just got the "gravity" of the situation. dumbass.'
+      - '&6%player%&c didn''t land on their feet. meow. -ω-'
       Lava:
       - '&6%player%&c tried to swim in lava while trying to escape &6%killer%&c'
       - '&6%killer%&c decided to push a Jew named &6%player%&4 into the lava for a laugh'
+      - 'Bam! &6%killer%&c gave &6%player%&4 six extra seconds of cooperation! Good job.'
       Explosion:
       - '&6%killer%&c blew up &6%player%&4'
       TNT:
       - '&6%killer%&c blew up &6%player%&4 with tnt'
       - '&6%killer%&c jihaded all over &6%player%&4'
+      - '&6%killer%&c is MVP for successfully planting the bomb, killing &6%player%&4 in the boom.'
       Firework:
       - '&6%player%&c stood too close to &6%killer%s&c fireworks'
+      - '&6%player%&c got a little to close to &6%killer%s&c pretty lights'
       End-Crystal:
       - '&6%player%&c was wiped off of the face of the fucking earth by &6%killer%&c'
       - '&6%player%&c was killed by &6%killer%&c blowing up an end-crystal!'
       - '&6%player%&c got ez''d by &6%killer%&c'
+      - '&6%killer%&c made &6%player%&c put some respect on it'
       Void:
-      - '&6%killer%&c tripped &6%player%&4 knocking them into the void'
+      - '&6%killer%&c tripped &6%player%&4, knocking them into the void'
+      - '&6%player%&4 will be freefalling for the rest of their life, thanks to &6%killer%&c'
       Wither:
       - '&6%player%&c got the &6%killer%&c brain virus and died'
       Thorns:
       - '&6%player%&c tried too hard' 
       - '&6%player%&c tried playing with &6%killer%s&c armor with thorns'
+      - '&6%player%&c got bleed for 8 seconds.'
       # Hook related deaths
       CombatLogX-Kill:
       - '&6%player%&c logged out during combat fighting &6%killer%&c, they died still -.-'
