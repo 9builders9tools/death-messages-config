@@ -92,7 +92,7 @@ Basic-Mode:
     - '&6%player%&c was pushed into a cactus by &6%killer%&c'
   Gang:
     Projectile-Arrow:
-    - '&6%player%&c was shot by a group of &6%killer%&cs using %weapon%'
+    - '&6%player%&c was shot by a group of &6%killer%s&c using %weapon%'
     Explosion:
     - '&6%player%&c was blown up by a group of &6%killer%&c'
     Projectile-Fireball:
@@ -102,13 +102,13 @@ Basic-Mode:
     Projectile-Trident:
     - '&6%player%&c was shot by a group of &6%killer%&c using %weapon%'
     Magic:
-    - '&6%player%&c was killed by a group of &6%killer%&cs using magic'
+    - '&6%player%&c was killed by a group of &6%killer%s&c using magic'
     Sonic-Boom:
     - '&6%player%&c was obliterated by a sonically-charged shriek'
     Weapon:
-    - '&6%player%&c was slain by a group of &6%killer%&cs using %weapon%'
+    - '&6%player%&c was slain by a group of &6%killer%s&c using %weapon%'
     Melee:
-    - '&6%player%&c was slain by a group of &6%killer%&cs'
+    - '&6%player%&c was slain by a group of &6%killer%s&c'
     Contact:
     - '&6%player%&c was pushed into a cactus by a group of &6%killer%&c'
 Natural-Cause:
@@ -249,9 +249,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   witherskeleton:
     Solo:
       Projectile-Arrow:
@@ -265,9 +265,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   stray:
     Solo:
       Projectile-Arrow:
@@ -280,9 +280,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   husk:
     Solo:
       Projectile-Arrow:
@@ -295,9 +295,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   zombievillager:
     Solo:
       Projectile-Arrow:
@@ -310,9 +310,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   skeletonhorse:
     Solo:
       Projectile-Arrow:
@@ -325,9 +325,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   zombiehorse:
     Solo:
       Projectile-Arrow:
@@ -340,9 +340,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   armorstand:
     Solo:
       Projectile-Arrow:
@@ -355,9 +355,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   donkey:
     Solo:
       Projectile-Arrow:
@@ -370,9 +370,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   mule:
     Solo:
       Projectile-Arrow:
@@ -385,9 +385,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   evoker:
     Solo:
       Projectile-Arrow:
@@ -404,9 +404,9 @@ Mobs:
       Magic:
       - '&6%player%&c was killed by some &6%killer%&c using magic'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   vex:
     Solo:
       Projectile-Arrow:
@@ -419,9 +419,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   vindicator:
     Solo:
       Projectile-Arrow:
@@ -435,9 +435,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   illusioner:
     Solo:
       Projectile-Arrow:
@@ -450,9 +450,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   creeper:
     Solo:
       Projectile-Arrow:
@@ -468,12 +468,12 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Explosion:
       - '&6%player%&c was blown up by some &6%killer%&c'
       - '&6%player%&c was kidnapped by terrorist &6%killer%&c'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   skeleton:
     Solo:
       Projectile-Arrow:
@@ -486,9 +486,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   spider:
     Solo:
       Projectile-Arrow:
@@ -501,9 +501,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   giant:
     Solo:
       Projectile-Arrow:
@@ -517,9 +517,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   zombie:
     Solo:
       Projectile-Arrow:
@@ -532,9 +532,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   slime:
     Solo:
       Projectile-Arrow:
@@ -547,9 +547,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   ghast:
     Solo:
       Projectile-Arrow:
@@ -566,9 +566,9 @@ Mobs:
       Projectile-Fireball:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   pigzombie:
     Solo:
       Projectile-Arrow:
@@ -581,9 +581,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   enderman:
     Solo:
       Projectile-Arrow:
@@ -597,9 +597,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
       - '&6%player%&c was gangbanged by a bunch of tall oily black men!'
   cavespider:
     Solo:
@@ -613,9 +613,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   silverfish:
     Solo:
       Projectile-Arrow:
@@ -628,9 +628,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   blaze:
     Solo:
       Projectile-Arrow:
@@ -647,9 +647,9 @@ Mobs:
       Projectile-Fireball:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   magmacube:
     Solo:
       Projectile-Arrow:
@@ -662,9 +662,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   enderdragon:
     Solo:
       Projectile-Arrow:
@@ -677,9 +677,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   wither:
     Solo:
       Projectile-Arrow:
@@ -698,13 +698,13 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Explosion:
       - '&6%player%&c stood too close to some &6%killer%&c while it was spawning'
       Projectile-Fireball:
       - '&6%player%&c died to some wither skulls'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   bat:
     Solo:
       Projectile-Arrow:
@@ -717,9 +717,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   witch:
     Solo:
       Projectile-Arrow:
@@ -734,11 +734,11 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Magic:
       - '&6%player%&c was killed by some &6%killer%&c using magic'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   endermite:
     Solo:
       Projectile-Arrow:
@@ -752,9 +752,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   guardian:
     Solo:
       Projectile-Arrow:
@@ -767,9 +767,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   shulker:
     Solo:
       Projectile-Arrow:
@@ -786,9 +786,9 @@ Mobs:
       Projectile-ShulkerBullet:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   pig:
     Solo:
       Projectile-Arrow:
@@ -801,9 +801,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   sheep:
     Solo:
       Projectile-Arrow:
@@ -816,9 +816,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   cow:
     Solo:
       Projectile-Arrow:
@@ -831,9 +831,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   chicken:
     Solo:
       Projectile-Arrow:
@@ -846,9 +846,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   squid:
     Solo:
       Projectile-Arrow:
@@ -861,9 +861,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   wolf:
     Solo:
       Projectile-Arrow:
@@ -877,9 +877,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
       - Inside of &6%player%&c are two wolves, and one of them tore his way out
   mushroomcow:
     Solo:
@@ -893,9 +893,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   snowman:
     Solo:
       Projectile-Arrow:
@@ -908,9 +908,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   ocelot:
     Solo:
       Projectile-Arrow:
@@ -923,9 +923,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   irongolem:
     Solo:
       Projectile-Arrow:
@@ -938,9 +938,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   horse:
     Solo:
       Projectile-Arrow:
@@ -953,9 +953,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   rabbit:
     Solo:
       Projectile-Arrow:
@@ -968,9 +968,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   polarbear:
     Solo:
       Projectile-Arrow:
@@ -983,9 +983,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was mauled the fuck out of by a group of &6%killer%&cs'
+      - '&6%player%&c was mauled the fuck out of by a group of &6%killer%s&c'
   llama:
     Solo:
       Projectile-LlamaSpit:
@@ -1002,9 +1002,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   parrot:
     Solo:
       Projectile-Arrow:
@@ -1017,9 +1017,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   villager:
     Solo:
       Projectile-Arrow:
@@ -1032,9 +1032,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   turtle:
     Solo:
       Projectile-Arrow:
@@ -1047,9 +1047,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   phantom:
     Solo:
       Projectile-Arrow:
@@ -1062,9 +1062,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   cod:
     Solo:
       Projectile-Arrow:
@@ -1077,9 +1077,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   salmon:
     Solo:
       Projectile-Arrow:
@@ -1092,9 +1092,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   pufferfish:
     Solo:
       Projectile-Arrow:
@@ -1107,9 +1107,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   tropicalfish:
     Solo:
       Projectile-Arrow:
@@ -1122,9 +1122,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   drowned:
     Solo:
       Projectile-Arrow:
@@ -1142,9 +1142,9 @@ Mobs:
       Projectile-Trident:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   dolphin:
     Solo:
       Projectile-Arrow:
@@ -1157,9 +1157,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   cat:
     Solo:
       Projectile-Arrow:
@@ -1172,9 +1172,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   panda:
     Solo:
       Projectile-Arrow:
@@ -1188,9 +1188,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
       - '&6%player%&c was sent to a re-education camp'
   pillager:
     Solo:
@@ -1214,10 +1214,10 @@ Mobs:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       - '&6%player%&c was shot by Mossad agents with a %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       - '&6%player%&c was jumped by Mossad agents using %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
       - '&6%player%&c was killed by Mossad agents'
   ravager:
     Solo:
@@ -1226,14 +1226,14 @@ Mobs:
       Weapon:
       - '&6%player%&c was slain by a &6%killer%&c  using %weapon%'
       Melee:
-      - '&6%player%&c got got crushed by a &6%killer%&cs cheeks'
+      - '&6%player%&c got got crushed by a &6%killer%s&c cheeks'
     Gang:
       Projectile-Arrow:
-      - '&6%player%&c got shot with a %weapon% by some &6%killer%&cs!'
+      - '&6%player%&c got shot with a %weapon% by some &6%killer%s&c!'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   traderllama:
     Solo:
       Projectile-Arrow:
@@ -1246,9 +1246,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   wanderingtrader:
     Solo:
       Projectile-Arrow:
@@ -1261,9 +1261,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   fox:
     Solo:
       Projectile-Arrow:
@@ -1276,9 +1276,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   bee:
     Solo:
       Projectile-Arrow:
@@ -1291,7 +1291,7 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
       - '&6%player%&c was brutally torn apart by a pack of hornets'
   hoglin:
@@ -1306,9 +1306,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   piglin:
     Solo:
       Projectile-Arrow:
@@ -1321,9 +1321,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   strider:
     Solo:
       Projectile-Arrow:
@@ -1336,9 +1336,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   zoglin:
     Solo:
       Projectile-Arrow:
@@ -1351,9 +1351,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   piglinbrute:
     Solo:
       Projectile-Arrow:
@@ -1366,9 +1366,9 @@ Mobs:
       Projectile-Arrow:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
   # 1.17
   goat:
     Solo:
@@ -1376,7 +1376,7 @@ Mobs:
       - '&6%player%&c was knocked by a &6%killer%&c'
     Gang:
       Melee:
-      - '&6%player%&c was knocked by a bunch of &6%killer%&cs'
+      - '&6%player%&c was knocked by a bunch of &6%killer%s&c'
   # 1.19
   warden:
     Solo:
@@ -1386,7 +1386,7 @@ Mobs:
       - '&6%player%&c was obliterated by a sonically-charged shriek'
     Gang:
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
       Sonic-Boom:
       - '&6%player%&c was obliterated by a bunch of sonically-charged shrieks'
   # 1.21
@@ -1400,11 +1400,11 @@ Mobs:
       - '&6%player%&c was knocked by a &6%killer%&c'
     Gang:
       Projectile-Arrow:
-      - '&6%player%&c was bogged by a bunch of &6%killer%&cs'
+      - '&6%player%&c was bogged by a bunch of &6%killer%s&c'
       Weapon:
-      - '&6%player%&c was bogged by a bunch of &6%killer%&cs using %weapon%'
+      - '&6%player%&c was bogged by a bunch of &6%killer%s&c using %weapon%'
       Melee:
-      - '&6%player%&c was knocked by a bunch of &6%killer%&cs'
+      - '&6%player%&c was knocked by a bunch of &6%killer%s&c'
   breeze:
     Solo:
       Projectile-Fireball:
@@ -1413,9 +1413,9 @@ Mobs:
       - '&6%player%&c was knocked by a &6%killer%&c'
     Gang:
       Projectile-Fireball:
-      - '&6%player%&c was knocked by a bunch of &6%killer%&cs'
+      - '&6%player%&c was knocked by a bunch of &6%killer%s&c'
       Melee:
-      - '&6%player%&c was knocked by a bunch of &6%killer%&cs'
+      - '&6%player%&c was knocked by a bunch of &6%killer%s&c'
   # 1.21.4
   creaking:
     Solo:
@@ -1425,17 +1425,17 @@ Mobs:
       - '&6%player%&c was knocked by a &6%killer%&c'
     Gang:
       Projectile-Fireball:
-      - '&6%player%&c was knocked by a bunch of &6%killer%&cs'
+      - '&6%player%&c was knocked by a bunch of &6%killer%s&c'
       Melee:
-      - '&6%player%&c was knocked by a bunch of &6%killer%&cs'
+      - '&6%player%&c was knocked by a bunch of &6%killer%s&c'
   player:
     Solo:
       Bed:
-      - '&6%player%&c stood too close to &6%killer%&cs bed in the %world_environment%'
+      - '&6%player%&c stood too close to &6%killer%s&c bed in the %world_environment%'
       - '&6%player%&c was bedbombed by a terrorist named %player%'
       - '&6%player%&c didn''t respect allah...'
       Respawn-Anchor:
-      - '&6%player%&c stood too close to &6%killer%&cs respawn anchor in the %world_environment%'
+      - '&6%player%&c stood too close to &6%killer%s&c respawn anchor in the %world_environment%'
       Contact:
       - '&6%player%&c was so terrified of &6%killer%&c he thought a cactus looked safe'
       - '&6%player%&c tried tricking &6%killer%&c into walking into a cactus. Guess who the
@@ -1475,7 +1475,7 @@ Mobs:
       - '&6%killer%&c blew up &6%player%&4 with tnt'
       - '&6%killer%&c jihaded all over &6%player%&4'
       Firework:
-      - '&6%player%&c stood too close to &6%killer%&cs fireworks'
+      - '&6%player%&c stood too close to &6%killer%s&c fireworks'
       End-Crystal:
       - '&6%player%&c was wiped off of the face of the fucking earth by &6%killer%&c'
       - '&6%player%&c was killed by &6%killer%&c blowing up an end-crystal!'
@@ -1486,7 +1486,7 @@ Mobs:
       - '&6%player%&c got the &6%killer%&c brain virus and died'
       Thorns:
       - '&6%player%&c tried too hard' 
-      - '&6%player%&c tried playing with &6%killer%&cs armor with thorns'
+      - '&6%player%&c tried playing with &6%killer%s&c armor with thorns'
       # Hook related deaths
       CombatLogX-Kill:
       - '&6%player%&c logged out during combat fighting &6%killer%&c, they died still -.-'
@@ -1496,9 +1496,9 @@ Mobs:
       - '&6%player%&c was ganged up on by some &6%killer%&c! One shot them with %weapon%'
       - '&6%player%&c was executed by the &6%killer%&c cartel'
       Weapon:
-      - '&6%player%&c was ganged up on by some &6%killer%&cs! One wacked them with %weapon%'
+      - '&6%player%&c was ganged up on by some &6%killer%s&c! One wacked them with %weapon%'
       Melee:
-      - '&6%player%&c was slain by a bunch of &6%killer%&cs'
+      - '&6%player%&c was slain by a bunch of &6%killer%s&c'
       - '&6%player%&c was eaten by a bunch of cannibals'
 Custom-Mobs:
   Mythic-Mobs:
