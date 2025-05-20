@@ -196,9 +196,9 @@ Natural-Cause:
   Suicide:
   - '&6%player%&c couldn''t take it anymore'
   - '&6%player%&c joined the 42%'
-  - '&6%player%&c fucking killed themselves nyaahhhh see chu later :3'
+  - '&6%player%&c fucking killed themselves nyaahhhh see you later :3'
   - '&6%player%&c is still trying to escape spawn'
-  - '&6<%player%>&c Hey guys! I guess that''s it.'
+  - '&6<%player%>&c Hey guys! I guess that''s it.'j
   - '&6%player%&c got a big sharp knife, it''s her own x-ray'
   Starvation:
   - '&6%player%&c forgot to eat'
@@ -1391,7 +1391,7 @@ Mobs:
       - '&6%player%&c was slain by &6%killer%&c'
       Sonic-Boom:
       - '&6%player%&c was obliterated by a sonically-charged shriek'
-      - '&6%player%&c is probably going to need hearing aids'
+      - '&6%player%&c is in the market for some new hearing aids'
     Gang:
       Melee:
       - '&6%player%&c was slain by a bunch of &6%killer%s&c'
@@ -1409,7 +1409,6 @@ Mobs:
     Gang:
       Projectile-Arrow:
       - '&6%player%&c was bogged by a bunch of &6%killer%s&c'
-      - '&6%player%&c got run-down in a trial chamber by &6%killer%s&c. Hope you set your respawn.'
       Weapon:
       - '&6%player%&c was bogged by a bunch of &6%killer%s&c using %weapon%'
       Melee:
