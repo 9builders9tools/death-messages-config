@@ -873,6 +873,7 @@ Mobs:
       - '&6%player%&c was slain by a &6%killer%&c  using %weapon%'
       Melee:
       - '&6%player%&c was slain by a &6%killer%&c'
+      - '&6%player%&c got yiff''d to death by a &6%killer%&c'
       - '&6%player%&c discovered why bestiality is a bad idea'
     Gang:
       Projectile-Arrow:
