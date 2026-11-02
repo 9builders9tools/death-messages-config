@@ -162,6 +162,7 @@ Natural-Cause:
   - '&6%player%&c hugged the burning cross in their yard'
   Melting:
   - '&6%player%&c melted away'
+  - '&6%player%&c had a meltdown'
   Lava:
   - '&6%player%&c thought lava was a hot tub'
   - '&6%player%&c didn''t get to water in time'
@@ -180,6 +181,7 @@ Natural-Cause:
   - '&6%player%&c became the 73rd virgin'
   Firework:
   - '&6%player%&c thought playing with fireworks was a good idea'
+  - '&6%player%&c celebrated new years a little too early'
   End-Crystal:
   - '&6%player%&c blew up'
   - '&6%player%&c became the 73rd virgin'
@@ -203,6 +205,7 @@ Natural-Cause:
   - '&6%player%&c was playing with poison'
   Magic:
   - '&6%player%&c was playing with magic'
+  - '&6%player%&c got outplayed by a splash potion'
   Wither:
   - '&6%player%&c withered away'
   - '&6%player%&c caught the newfag plague and died'
@@ -226,6 +229,7 @@ Natural-Cause:
   - '&6%player%&c belonged in the water. Not land'
   Freeze:
   - '&6%player%&c did not put their snow suit on before they went to play.'
+  - '&6%player%&c became a popsicle'
   Thorns:
   - '&6%player%&c tried playing armor with thorns'
   Kill:
