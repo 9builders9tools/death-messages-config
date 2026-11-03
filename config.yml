@@ -362,7 +362,6 @@ Natural-Cause:
   - '<player> tried climbing to greater heights and fell off <climbable>'
   - '<player> thought he was a nigger, but fell off some vines...'
   - '<player> did it for the vine'
-  - '<player>''s impression of Tarzan was so bad even the vines started crying'
   Climbable-Weeping-Vines:
   - '<player> tried climbing to greater heights and fell off <climbable>'
   - '<player> thought he was a nigger, but fell off some vines...'
@@ -372,12 +371,10 @@ Natural-Cause:
   - '<player> tried climbing to greater heights and fell off <climbable>'
   - '<player> thought he was a nigger, but fell off some vines...'
   - '<player> did it for the vine'
-  - '<player>''s impression of Tarzan was so bad even the vines started crying'
   Climbable-Cave-Vines:
   - '<player> tried climbing to greater heights and fell off <climbable>'
   - '<player> thought he was a nigger, but fell off some vines...'
   - '<player> did it for the vine'
-  - '<player>''s impression of Tarzan was so bad even the vines started crying'
   Climbable-Scaffolding:
   - '<player> tried climbing to greater heights and fell off <climbable>'
   - '<player> fell off some scaffolding'
