@@ -1,4 +1,4 @@
-# DeathMessagesPrime Configuration File
+# Ankou Configuration File
 # SAVE THIS FILE AS UTF-8!!!! (without BOM)
 # Your text editor should support it. (Windows Notepad does probably not work)
 
@@ -85,7 +85,7 @@ name-color: "gold"
 
 # Broadcast death message to console.
 # none: Do not print death message in console.
-# normal: Print the DeathMessagesPrime message in console.
+# normal: Print the Ankou message in console.
 # Default: normal
 console-death-message: normal
 
@@ -201,11 +201,6 @@ custom-messages-per-world:
 custom-messages-per-mob-name:
   # Same as above, but for mob names (as MiniMessage, see below).
 
-# >>> MESSAGES
-# Everything from this line on comes from the DeathMessages plugin, and can be
-# replaced with the files of an existing installation. See the README.
-# Their color codes and placeholders must be converted, or they will show up as text.
-#
 # Messages, mob-names and mob-plurals use MiniMessage for their formatting:
 # https://docs.papermc.io/adventure/minimessage/format/
 # To show a literal tag, escape it with a backslash: \\<red> within double quotes,
@@ -247,7 +242,6 @@ custom-messages-per-mob-name:
 # Conditions:
 # Starting a message with PERMISSION[node] or PERMISSION_KILLER[node] restricts
 # it to deaths where the player or the killer have that permission.
-# REGION[name] needs WorldGuard, which is not supported: such messages are skipped.
 #
 # How a message is picked for a death:
 # - If there is a mob or player to blame, Mobs.<type>.<Solo or Gang>.<cause>,
