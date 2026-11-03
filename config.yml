@@ -278,6 +278,7 @@ Basic-Mode:
     - '<player> was killed by a <killer> using magic'
     Sonic-Boom:
     - '<player> was obliterated by a sonically-charged shriek'
+    - '<player> is in the market for some new hearing aids'
     Weapon:
     - '<player> was slain by a <killer> using <weapon>'
     Melee:
@@ -299,6 +300,7 @@ Basic-Mode:
     - '<player> was killed by a group of <killer> using magic'
     Sonic-Boom:
     - '<player> was obliterated by a sonically-charged shriek'
+    - '<player> is in the market for some new hearing aids'
     Weapon:
     - '<player> was slain by a group of <killer> using <weapon>'
     Melee:
@@ -315,6 +317,7 @@ Natural-Cause:
   - '<player> ran into the giant fucking prickly thing'
   - '<player> tried the cactus dupe but only got a death message'
   - '<player> mistook a cactus for their new dildo'
+  - '<player> didn''t get the POINT!'
   Melee:
   - '<player> killed themselves'
   Projectile-Unknown:
@@ -349,6 +352,7 @@ Natural-Cause:
   - '<player> broke their fucking legs'
   - '<player> turned into mush'
   - '<player> swan dived into cement'
+  - '<player> understood the gravity of the situation'
   Climbable-Ladder:
   - '<player> tried climbing to greater heights and fell off <climbable>'
   - '<player> is so autistic they can''t even climb a ladder'
@@ -405,9 +409,11 @@ Natural-Cause:
   TNT:
   - '<player> was playing with tnt'
   - '<player> became the 73rd virgin'
+  - '<player>''s base gets NO respect'
   Firework:
   - '<player> thought playing with fireworks was a good idea'
   - '<player> celebrated New Year''s a little too early'
+  - '<player> died while watching the pretty lights'
   End-Crystal:
   - '<player> blew up'
   - '<player> became the 73rd virgin'
@@ -420,20 +426,25 @@ Natural-Cause:
   - '<player> stared into the abyss, and the abyss stared back'
   Lightning:
   - '<player> was struck by lightning'
+  - '<player> felt the thundersmack'
   Suicide:
   - '<player> couldn''t take it anymore'
   - '<player> joined the 42%'
+  - '<player> bought a rope'
   Starvation:
   - '<player> forgot to eat'
   - '<player> couldn''t afford food'
   - '<player> ran out of goyslop'
+  - '<player> forgot the world''s difficulty setting'
   Poison:
   - '<player> was playing with poison'
   Magic:
   - '<player> was playing with magic'
   - '<player> got outplayed by a splash potion'
+  - '<player> died suddenly'
   Sonic-Boom:
     - '<player> was obliterated by a sonically-charged shriek'
+    - '<player> is in the market for some new hearing aids'
   Wither:
   - '<player> withered away'
   - '<player> caught the newfag plague and died'
@@ -462,6 +473,7 @@ Natural-Cause:
   - '<player> became a popsicle'
   Thorns:
   - '<player> tried playing with the armor with thorns'
+  - '<player> cosplayed Jesus'
   Kill:
   - '<player> was killed'
   World-Border:
@@ -1616,6 +1628,7 @@ Mobs:
       - '<player> was slain by <killer>'
       Sonic-Boom:
       - '<player> was obliterated by a sonically-charged shriek'
+      - '<player> is in the market for some new hearing aids'
     Gang:
       Melee:
       - '<player> was slain by a bunch of <killer>'
@@ -1930,6 +1943,7 @@ Mobs:
       - '<player> was hit in the head with a snowball thrown by <killer>'
       Projectile-Trident:
       - '<player> was impaled by <killer>'
+      - '<player> was forked and consumed by the likes of <killer>'
       Projectile-Egg:
         - '<player> was egged to death by <killer>'
       Projectile-EnderPearl:
@@ -2009,6 +2023,7 @@ Mobs:
       - '<player> got ez''d by <killer>'
       Void:
       - '<killer> tripped <player> knocking them into the void'
+      - '<player> will be free-falling for the rest of their short life, thanks to <killer>'
       Wither:
       - '<player> got the <killer> brain virus and died'
       Thorns:
