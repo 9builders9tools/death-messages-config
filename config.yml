@@ -87,7 +87,7 @@ name-color: "gold"
 # none: Do not print death message in console.
 # normal: Print the Ankou message in console.
 # Default: normal
-console-death-message: normal
+console-death-message: true
 
 # Clean colors from messages printed in the console, 
 # ignored if console-death-message is not normal
@@ -97,7 +97,7 @@ console-death-message-strip-colors: false
 # Displays the death message in the console even if the world has disabled
 # death messages or set them to private. 
 # Default: true
-console-death-message-even-if-disabled: true
+console-death-message-even-if-muted: true
 
 # If enabled, weapon kills will default to the given key if the weapon has no
 # custom name. If ignore-enchantments is false, enchanted weapons still count.
