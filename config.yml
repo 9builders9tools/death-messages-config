@@ -314,9 +314,10 @@ Natural-Cause:
   Respawn-Anchor:
   - '<player> tried using the respawn anchor in the <world_environment>!'
   Contact:
+  - '<player> ran into the giant fucking prickly thing'
   - '<player> gooned to death'
   - '<player> tried the cactus dupe but only got a death message'
-  - '<player> mistook a cactus for their new dildo and got diddled'
+  - '<player> mistook a cactus for their new dildo'
   - '<player> didn''t get the POINT!'
   Melee:
   - '<player> killed themselves'
