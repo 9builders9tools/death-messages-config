@@ -80,7 +80,7 @@ death-message-enable-namedmob: true
 # Set base-color to "" to leave messages uncolored.
 # Colors within a message still apply to its text, but a name always gets
 # name-color, if set, unless it comes with a color of its own.
-base-color: "red"
+base-color: "#ce2b2b"
 name-color: "gold"
 
 # Broadcast death message to console.
